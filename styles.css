@@ -1,0 +1,88 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Outfit', sans-serif;
+}
+
+.container {
+    background-color:hsl(216, 50%, 16%) ;
+    margin-top: 50px;
+    padding-left: 25px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+
+.image img {
+   width: 250px;
+   margin-top: 20px;
+   border-radius: 10px;
+}
+
+h2 {
+    color: white;
+}
+
+.description {
+    width: 250px;
+    font-size: 18px;
+    line-height: 30px;
+    color: hsl(215, 51%, 70%);
+}
+
+.prices {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    width: 250px;
+}
+
+span {
+    margin-left: 5px;
+    font-weight: 200;
+    color: cyan;
+}
+
+.eth img {
+    margin-bottom: -3px;
+}
+
+.clock img {
+    margin-bottom: -3px;
+}
+
+.time {
+    color:  hsl(215, 51%, 70%);
+   
+}
+
+.profile img {
+    width: 30px;
+    border-radius: 50%;
+    border: 1px solid white;
+}
+
+.avater {
+    margin-top: 20px;
+    display: flex;
+    width: 250px;
+    padding-top: 20px;
+    border-top: 0.5px solid hsl(215, 51%, 70%);
+}
+
+p {
+    margin-left: 10px;
+}
+.name {
+    color: hsl(215, 51%, 70%);
+}
+
+.creation {
+    margin-top: -10px;
+}
+
+
+
